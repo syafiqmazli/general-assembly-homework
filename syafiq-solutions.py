@@ -32,7 +32,7 @@ boops = 12
 total = beeps + boops
 print(total)
 
-# Decode letter is J
+# Decode letter is O
 beeps = 5
 boops = 5
 total = beeps + boops
