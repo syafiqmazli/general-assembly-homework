@@ -1,0 +1,94 @@
+# Author : Muhammad Syafiq Mazli
+## Email : m.syfqmzli@gmail.com
+### Date : November 16, 2022
+
+
+1. True or false: An if statement can live without an else statement.
+
+Answer : False
+
+2. True or false: An else statement can live without an if statement.
+
+Answer : False
+
+3. True or false: An elif statement can live without an if statement.
+
+Answer : True
+
+4. True or false: An if + elif statement can live without an else statement.
+
+Answer : False
+
+5. True or false: The following statements are equivalent
+
+Answer : if a == True:
+
+
+###
+
+1. In the following code block, what prints?
+
+a = True
+b = True
+c = False
+
+if a:
+print("1")
+
+Answer : 1
+
+if b:
+print("2")
+
+Answer : 2
+
+if c:
+print("3")
+
+Answer : Nothing
+
+if a and b:
+print("4")
+
+Answer : 4
+
+if a and c:
+print("5")
+
+Answer : Nothing
+
+if b and c:
+print("6")
+
+Answer : Nothing
+
+if a or b:
+print("7")
+
+Answer : 7
+
+if a or c:
+print("8")
+
+Answer : Nothing
+
+if b or c:
+print("9")
+
+Answer : Nothing
+
+###
+
+1. In the following code block, what prints?
+a = False
+b = True
+c = True
+if a:
+print("1")
+elif b:
+print("2")
+elif c:
+print("3")
+else:
+
+Answer : 2
